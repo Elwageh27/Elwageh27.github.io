@@ -1,0 +1,15 @@
+
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.elwageh27.sports",
+      "sha256_cert_fingerprints": [
+        "9E:0E:AC:43:A4:D9:8D:6E:5E:1E:C4:35:DA:D2:6C:66:ED:03:A3:14:C9:04:82:5E:A0:F6:6A:78:EA:8C:CA:38"
+      ]
+    }
+  }
+]
